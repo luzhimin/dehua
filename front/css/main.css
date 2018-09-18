@@ -1,0 +1,88 @@
+@charset "UTF-8";
+/* CSS Document */
+.title-menu li{
+	
+	color: #19467F;
+	margin-left: 10px;
+	font-weight: 500;
+	text-align: center;
+	margin-top: 5px;
+}
+.title-menu li:hover{
+	cursor: pointer;
+	color: #57c8ce;
+}
+.chooseAnswer{
+	color:#969595;
+}
+.personalInfo{
+	
+	margin-top: 20px;
+}
+.newsContent{
+	text-align: justify;
+	padding:  10px;
+	font-size: 12px;
+}
+.newsTitle{
+	color: #ececec;
+	font-weight: 600;
+}
+#intelligentZone{
+	
+	margin-top: 120px;
+}
+#governmentService {
+	padding: 0 0;
+	
+}
+
+#governmentBox{
+	padding: 90px 30px;
+}
+#governmentBox p{
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+#governmentService .service-box{
+	
+	margin-top: 20px;
+}
+
+.detailExplain{
+	
+	color:#19467f ;
+	text-align: center;
+	padding：20px 5px；
+	
+}
+
+
+#priceList{
+	
+	color: #19467f;
+}
+ tr{
+	
+	color: #19467f;
+}
+
+.priceTitle{
+	color: #19467f;
+}
+.solutionService{
+	
+	color: #969696;
+}
+.moreService{
+	
+	margin-left: 10px;
+}
+.talkTo{
+	color: #57c8ce;
+	font-weight: 600;
+}
+.talkTo:hover{
+	text-decoration: none;
+	color: #19467f;
+}
